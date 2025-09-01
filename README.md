@@ -13,10 +13,9 @@
 
 ```
 -------------------------
-💻 Soy estudiante de Ingeniería en Computación e Informática.
-📚 Estoy en mi 4to año de la carrera.
+💻 Soy egresada de Ingeniería en Computación e Informática.
+📚 Títilada en 2025.
 📝 Mi interés de último momento es aprender sobre Linux.
-🔭 Estoy realizando mi práctica 1 y 2.
 🚩 Interesada en el desarrollo de aplicaciones Full Stack 
 💖 Me guntan los gatos y andar jugando videojuegos 👆🤓
 🎵 Amo escuchar humbe, cigarettes after sex y otros...
